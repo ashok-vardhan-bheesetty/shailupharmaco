@@ -965,10 +965,12 @@ color: darkgrey;
       .certif h3{
         font-size: 10px;
       }
-      .cert-img img{
-        width: 200px;
+     .cert-img img{
+        width: 80%;
         margin:auto;
-        margin-top:5% ;
+        margin-top: 5%;
+        margin-left: 10%;
+        margin-bottom: 5%;
       }
       .modal-content {
         width: 90%; /* Adjust width for smaller devices */
